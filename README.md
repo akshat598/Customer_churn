@@ -18,4 +18,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/akshat598/customer-churn-analysis.git
+   git clone https://github.com/akshat598/Customer_Churn_Analysis.git
